@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jamil</h1>
-<h3 align="center">Software Engineer</h3>
+<h1 align="center">Hi 👋, I'm Jamil Moughal</h1>
+<h3 align="center">Software Engineer, converting dreams into reality</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjamilmoughal&label=Profile%20views&color=0e75b6&style=flat" alt="mjamilmoughal" /> </p>
 
