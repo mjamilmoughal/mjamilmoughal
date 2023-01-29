@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mjamilmoughal" target="blank"><img src="https://img.shields.io/twitter/follow/mjamilmoughal?logo=twitter&style=for-the-badge" alt="mjamilmoughal" /></a> </p>
 
-- 🌱 I’m currently learning **Azure, AWS, and DevOps**
+- 🌱 I’m currently learning **Azure, AWS, Machine Learning and DevOps**
 
 - 👨‍💻 All of my projects are available at [github.com/mjamilmoughal](github.com/mjamilmoughal)
 
